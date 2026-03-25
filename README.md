@@ -36,7 +36,7 @@ A simple and efficient **web-based attendance tracker** built using **React (Typ
 
 ## 📸 Screenshots
 
-![Online DTR Screenshot](/screenshot.png)
+> ![Online DTR Screenshot](/screenshot.png)
 
 ---
 
