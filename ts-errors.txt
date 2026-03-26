@@ -1,0 +1,8 @@
+src/components/ui/chart.tsx(231,25): error TS2339: Property 'payload' does not exist on type 'Props'.
+src/components/ui/chart.tsx(246,23): error TS7006: Parameter 'item' implicitly has an 'any' type.
+src/components/ui/form.tsx(4,22): error TS1484: 'ControllerProps' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/ui/form.tsx(4,39): error TS1484: 'FieldPath' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/ui/form.tsx(4,50): error TS1484: 'FieldValues' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/ui/resizable.tsx(2,10): error TS2724: '"react-resizable-panels"' has no exported member named 'PanelGroup'. Did you mean 'PanelProps'?
+src/components/ui/resizable.tsx(2,29): error TS2305: Module '"react-resizable-panels"' has no exported member 'PanelResizeHandle'.
+\n
